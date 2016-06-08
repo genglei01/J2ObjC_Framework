@@ -1,0 +1,14 @@
+//
+//  Settings.xcconfig
+//  FlexChart
+//
+//  Created by LeoGeng on 6/2/16.
+//  Copyright © 2016 grapecity. All rights reserved.
+//
+J2OBJC_HOME = /Users/leogeng/Documents/java/j2objc-1.0.2
+
+HEADER_SEARCH_PATHS = $(inherited) ${J2OBJC_HOME}/include ${DERIVED_FILES_DIR} 
+
+LIBRARY_SEARCH_PATHS = ${J2OBJC_HOME}/lib
+
+OTHER_LDFLAGS = -ljre_emul
