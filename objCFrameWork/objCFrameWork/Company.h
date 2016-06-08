@@ -2,8 +2,6 @@
 //  Company.h
 //  objCFrameWork
 //
-//  Created by LeoGeng on 6/8/16.
-//  Copyright © 2016 grapecity. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>

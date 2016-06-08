@@ -636,6 +636,7 @@
 				6B4F13BD1D07D28E00D7BC08 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6B4F13BE1D07D28E00D7BC08 /* Build configuration list for PBXNativeTarget "objCFrameWorkTests" */ = {
 			isa = XCConfigurationList;
@@ -644,6 +645,7 @@
 				6B4F13C01D07D28E00D7BC08 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6B4F13F51D07D6FC00D7BC08 /* Build configuration list for PBXNativeTarget "objCFrameWorkDemo" */ = {
 			isa = XCConfigurationList;
@@ -652,6 +654,7 @@
 				6B4F13F71D07D6FC00D7BC08 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6B4F13F81D07D6FC00D7BC08 /* Build configuration list for PBXNativeTarget "objCFrameWorkDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -660,6 +663,7 @@
 				6B4F13FA1D07D6FC00D7BC08 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
